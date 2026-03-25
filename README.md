@@ -158,10 +158,10 @@ Toutes les données passent par `MovieRepository`, ce qui permet de respecter un
 
 ## 👨‍💻 Captures d'écrans de l'application
 
-# Ecran accueil
+### Ecran accueil
 <img width="611" height="1124" alt="image" src="https://github.com/user-attachments/assets/0141fbcf-521f-4a6e-b0f2-6ecd8b9dfcca" />
 
-# Détail film
+### Détail film
 <img width="579" height="1112" alt="image" src="https://github.com/user-attachments/assets/5fa0caf5-49dd-4821-ae46-11e2bb0e36cf" />
 
 <img width="545" height="1107" alt="image" src="https://github.com/user-attachments/assets/e79d4bed-bd00-4c41-a81b-7720a5e203c1" />
