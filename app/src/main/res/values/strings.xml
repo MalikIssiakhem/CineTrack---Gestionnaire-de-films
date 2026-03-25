@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">CineTrack</string>
+
+    <!-- Dashboard -->
+    <string name="bonjour_prenom">Bonjour, %1$s</string>
+    <string name="compteur_vus">Films vus : %1$d</string>
+    <string name="compteur_a_voir">A voir : %1$d</string>
+    <string name="compteur_moyenne">Note moyenne : %1$s</string>
+    <string name="chargement">Chargement...</string>
+    <string name="reco_titre">%1$s (%2$s)</string>
+    <string name="reco_indisponible">Recommandation indisponible</string>
+    <string name="badge_hors_ligne">Hors ligne</string>
+    <string name="badge_reco">3 choix</string>
+    <string name="btn_voir_films">Mes films</string>
+    <string name="btn_profil">Mon profil</string>
+    <string name="btn_recharger">Recharger</string>
+    <string name="label_recommandation">Recommendations du moment :</string>
+
+    <string name="dashboard_app_badge">CineTrack</string>
+    <string name="dashboard_intro">Retrouve tes films, ton avancement et une recommandation du moment.</string>
+    <string name="label_films_vus">Films vus</string>
+    <string name="label_a_voir">A voir</string>
+    <string name="label_moyenne_globale">Moyenne globale</string>
+    <string name="label_stats_chip">Stats</string>
+    <string name="titre_formulaire_film">Ajouter ou modifier un film</string>
+    <string name="sous_titre_formulaire_film">Complete les informations locales du film avant d ouvrir sa fiche detaillee.</string>
+    <string name="label_titre">Titre</string>
+    <string name="label_genre_simple">Genre</string>
+    <string name="titre_profil_hero">Mon profil</string>
+    <string name="sous_titre_profil">Personnalise ton experience et tes preferences de visionnage.</string>
+    <string name="label_prenom">Prenom</string>
+    <string name="label_email">Email</string>
+
+    <!-- Dialog bienvenue -->
+    <string name="dialog_bienvenue_titre">Bienvenue sur CineTrack !</string>
+    <string name="dialog_bienvenue_message">Quel est votre prenom ?</string>
+    <string name="hint_prenom">Votre prenom</string>
+    <string name="btn_valider">Valider</string>
+
+    <!-- Liste films -->
+    <string name="titre_liste_films">Mes Films</string>
+    <string name="btn_ajouter_film">Ajouter un film</string>
+    <string name="action_modifier">Modifier</string>
+    <string name="action_supprimer">Supprimer</string>
+
+    <!-- Dialog suppression -->
+    <string name="dialog_suppr_titre">Supprimer ce film ?</string>
+    <string name="dialog_suppr_message">Voulez-vous supprimer %1$s ?</string>
+    <string name="btn_oui">Oui</string>
+    <string name="btn_non">Non</string>
+
+    <!-- Toasts -->
+    <string name="film_ajoute">Film ajoute</string>
+    <string name="film_modifie">Film modifie</string>
+    <string name="film_supprime">Film supprime</string>
+    <string name="profil_sauvegarde">Profil sauvegarde</string>
+
+    <!-- Formulaire ajout/modif -->
+    <string name="titre_ajouter_film">Ajouter un film</string>
+    <string name="titre_modifier_film">Modifier le film</string>
+    <string name="hint_titre_film">Titre du film *</string>
+    <string name="hint_genre_film">Genre</string>
+    <string name="label_statut">Statut :</string>
+    <string name="label_note">Note :</string>
+    <string name="btn_sauvegarder">Sauvegarder</string>
+    <string name="erreur_titre_vide">Le titre est obligatoire</string>
+
+    <!-- Profil -->
+    <string name="titre_profil">Mon Profil</string>
+    <string name="hint_email">Email</string>
+    <string name="label_genre_favori">Genre favori :</string>
+    <string name="btn_sauvegarder_profil">Sauvegarder le profil</string>
+    <string name="erreur_prenom_vide">Le prenom est obligatoire</string>
+    <string name="erreur_email_invalide">Email invalide</string>
+
+    <!-- Detail film (BONUS) -->
+    <string name="titre_detail">Detail du film</string>
+    <string name="detail_genre">Genre : %1$s</string>
+    <string name="detail_statut">Statut : %1$s</string>
+    <string name="detail_note">Note : %1$s</string>
+    <string name="label_synopsis">Synopsis :</string>
+    <string name="pas_de_poster">Aucune affiche disponible</string>
+    <string name="poster_recommandation">Affiche de recommandation</string>
+    <string name="btn_modifier_film">Modifier ce film</string>
+
+    <string name="detail_annee">Annee : %1$s</string>
+    <string name="detail_recommandation">Recommendation CineTrack</string>
+    <string name="btn_ajouter_a_ma_liste">Ajouter a ma liste</string>
+    <string name="btn_film_deja_ajoute">Deja dans ma liste</string>
+    <string name="film_ajoute_depuis_reco">Film ajoute depuis la recommandation</string>
+    <string name="film_deja_dans_liste">Ce film est deja dans ta liste</string>
+    <string name="info_non_disponible">Information non disponible</string>
+    <string name="synopsis_indisponible">Synopsis indisponible</string>
+    <string name="genre_par_defaut">Non classe</string>
+
+    <string name="btn_ajouter_film_court">Ajouter</string>
+    <string name="label_recherche_api">Rechercher un film via OMDb</string>
+    <string name="texte_recherche_api">Saisis un titre, lance la recherche puis choisis un resultat pour pre-remplir le formulaire.</string>
+    <string name="hint_recherche_api">Ex. Inception</string>
+    <string name="btn_rechercher_film">Rechercher sur l API</string>
+    <string name="hint_titre_api">Titre rempli apres selection OMDb</string>
+    <string name="hint_genre_api">Genre rempli apres selection OMDb</string>
+    <string name="selection_api_attendue">Selectionne un film dans les resultats pour continuer.</string>
+    <string name="selection_api_ok">Film OMDb selectionne : tu peux maintenant choisir ton statut et ta note.</string>
+    <string name="film_selectionne_api">Film selectionne : %1$s</string>
+    <string name="chargement_details_film">Chargement des details du film...</string>
+    <string name="erreur_selection_api">Recherche et selectionne un film depuis l API avant de sauvegarder.</string>
+    <string name="recherche_resultats_sous_titre">Choisis un film dans la liste pour remplir automatiquement le formulaire.</string>
+    <string name="dialog_suppr_message_detail">Ce film sera retire definitivement de ta liste.</string>
+
+    <string name="liste_films_sous_titre">Touchez un film pour voir les details.</string>
+    <string name="liste_vide">Aucun film enregistre pour le moment. Ajoute ton premier film pour demarrer.</string>
+    <string name="statut_vu_court">Vu</string>
+    <string name="statut_a_voir_court">A voir</string>
+
+    <string-array name="statuts_film">
+        <item>A voir</item>
+        <item>Vu</item>
+    </string-array>
+
+    <string-array name="notes_film">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="genres_film">
+        <item>Action</item>
+        <item>Comedie</item>
+        <item>Drame</item>
+        <item>Science-Fiction</item>
+        <item>Horreur</item>
+        <item>Autre</item>
+    </string-array>
+</resources>
