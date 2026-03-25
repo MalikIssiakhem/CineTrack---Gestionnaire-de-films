@@ -156,6 +156,16 @@ Toutes les données passent par `MovieRepository`, ce qui permet de respecter un
 - Recommandations personnalisées
 - Authentification utilisateur
 
-## 👨‍💻 Auteur
+## 👨‍💻 Captures d'écrans de l'application
+<img width="611" height="1124" alt="image" src="https://github.com/user-attachments/assets/0141fbcf-521f-4a6e-b0f2-6ecd8b9dfcca" />
+<img width="579" height="1112" alt="image" src="https://github.com/user-attachments/assets/5fa0caf5-49dd-4821-ae46-11e2bb0e36cf" />
+<img width="545" height="1107" alt="image" src="https://github.com/user-attachments/assets/e79d4bed-bd00-4c41-a81b-7720a5e203c1" />
+<img width="556" height="1137" alt="image" src="https://github.com/user-attachments/assets/3a86c3c9-d90a-4855-8e12-fdfbad2110a9" />
+<img width="531" height="1102" alt="image" src="https://github.com/user-attachments/assets/9f27f575-d6df-4848-ac79-fa661c4a4d31" />
+<img width="528" height="1124" alt="image" src="https://github.com/user-attachments/assets/0ec2ff8c-daee-45ad-8ff5-49d0821ce300" />
 
-Projet réalisé dans le cadre d’un projet Android à l’ESGI.
+
+
+
+
+
