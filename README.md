@@ -69,6 +69,8 @@ Toutes les données passent par `MovieRepository`, ce qui permet de respecter un
 
 ## 📂 Organisation des classes
 
+<img width="2200" height="1300" alt="CineTrack_clean_pro" src="https://github.com/user-attachments/assets/9f4dcdc1-cb45-4a89-af19-3be74fac6d77" />
+
 ### 🎨 UI Layer
 
 | Classe | Rôle |
