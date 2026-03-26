@@ -139,15 +139,6 @@ Toutes les données passent par `MovieRepository`, ce qui permet de respecter un
 - SharedPreferences
 - OMDb API
 
-## 📌 Points importants pour la soutenance
-
-- Respect du pattern Repository
-- Aucun appel API direct dans les Activities
-- Gestion d’une API REST avec Retrofit
-- Gestion du mode hors ligne
-- Interface moderne et lisible
-- Affichage des affiches via Glide
-
 ## 🔥 Améliorations possibles
 
 - Passage de SQLite vers Room
